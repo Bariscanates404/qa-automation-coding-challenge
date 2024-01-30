@@ -1,11 +1,8 @@
 # Cypress Test Instructions
 
-## App Setup
+## Run The App
 
-1. **Fork and clone the repository.**
-2. At the root directory of the repo, install dependencies by running `yarn` (if
-   needed, [install yarn first](https://yarnpkg.com/getting-started)).
-3. Run the app by executing:
+1. Run the app by executing:
     ```bash
     yarn start
     ```
@@ -26,7 +23,7 @@
       ```
          → Must be work "Compiled successfully!" :) 
 
-## Running Tests
+## Run The Tests
 
 3. **Open Cypress:**
     - Open Cypress Test Runner:
@@ -35,9 +32,8 @@
       ```
 
 4. **Run Tests:**
-    - In the Cypress Test Runner, click on the test file you want to run.
+    - In the Cypress Test Runner, click on the automatedTests.cy.js file.
     - Cypress will open a browser window and execute the tests.
-    - Run all tests by clicking "Run all specs."
 
 5. **View Test Results:**
     - Real-time feedback will be shown in the Cypress Test Runner.
