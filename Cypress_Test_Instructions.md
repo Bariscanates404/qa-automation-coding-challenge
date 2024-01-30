@@ -1,7 +1,6 @@
 # Cypress Test Instructions
-
+*I assume you have already cloned and set up the app. If not, please refer to the [setup.md](setup.md) for detailed instructions.*
 ## Run The App
-
 1. Run the app by executing:
     ```bash
     yarn start
