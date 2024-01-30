@@ -25,21 +25,21 @@
 
 ## Run The Tests
 
-3. **Open Cypress:**
+1. **Open Cypress:**
     - Open Cypress Test Runner:
       ```bash
       npx cypress open
       ```
 
-4. **Run Tests:**
+2. **Run Tests:**
     - In the Cypress Test Runner, click on the automatedTests.cy.js file.
     - Cypress will open a browser window and execute the tests.
 
-5. **View Test Results:**
+3. **View Test Results:**
     - Real-time feedback will be shown in the Cypress Test Runner.
     - Review results, including any failed tests.
 
-6. **Run Headlessly (Optional):**
+4. **Run Headlessly (Optional):**
     - Run tests in headless mode (without GUI):
       ```bash
       npx cypress run
