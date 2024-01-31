@@ -1,15 +1,14 @@
 # <p style="text-align:center">Coverage and Prioritization</p>
 
-| Priority | ID  | Test Description |
-|----------|-----|------------------|
-| **High** | 2   | **Search Functionality**: Check if searching for GitHub users and handling missing or empty input works smoothly. |
-| **High** | 3   | **Navigation Ease**: Ensure users can easily navigate from search results to a repository's page. |
-| **High** | 4   | **Secure Communication**: Verify the app communicates securely with GitHub to protect sensitive data. |
-| **High** | 5   | **Feedback Mechanism**: Test if the app gives helpful feedback on successful searches and error cases. |
-| **Mid**  | 6   | **Edge Cases Handling**: Confirm the app gracefully handles missing values in various scenarios. |
-| **Mid**  | 7   | **Device Compatibility**: Test the app's compatibility with different devices and browsers. |
-| **Low**  | 8   | **Data Exposure Prevention**: Check how the app handles potential data exposure scenarios. |
-| **Cosmetic** | 1   | **UI Aesthetics**: Ensure the UI looks good and functions well, creating a pleasant user experience. |
+| Priority         | ID  | Test Description |
+|------------------|-----|------------------|
+| **High**         | 2   | **Search Functionality**: Check if searching for GitHub users and handling missing or empty input works smoothly. |
+| **High**         | 3   | **Navigation Ease**: Ensure users can easily navigate from search results to a repository's page. |
+| **High**         | 4   | **Secure Communication**: Verify the app communicates securely with GitHub to protect sensitive data. |
+| **High**         | 5   | **Feedback Mechanism**: Test if the app gives helpful feedback on successful searches and error cases. |
+| **Mid**          | 6   | **Edge Cases Handling**: Confirm the app gracefully handles missing values in various scenarios. |
+| **Mid**          | 7   | **Device Compatibility**: Test the app's compatibility with different devices and browsers. |
+| **Low/Cosmetic** | 1   | **UI Aesthetics**: Ensure the UI looks good and functions well, creating a pleasant user experience. |
 
 
 

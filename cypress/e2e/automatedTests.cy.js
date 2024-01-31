@@ -21,7 +21,6 @@ describe('Main Functionality Tests - Search function test', () => {
 
         // Assertion: Verify that the error message is visible
         mainPage.errorMessage.should('be.visible');
-
         // Act: Perform a search with an empty input by clicking the "Go" button
         mainPage.goButton.click();
 
